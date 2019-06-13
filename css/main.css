@@ -32,3 +32,25 @@ body {
 .logo {
     height: 100px;
 }
+.fullscreen {
+    width: 100%;
+    height: 100vh;
+    color: white;
+    padding: 40vh;
+  }
+  .a { 
+    font-size: 40px;
+    font-family: "Roboto Regular";
+    src: url("../fonts/Roboto-Regular.ttf");
+    text-align: center;
+    background: rgba(31, 134, 119, 0.2);
+  }
+  .b {  
+    background-image: url(../images/IMG_5558.jpg);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    text-align: right;
+    font-size: 30px;
+    -webkit-text-fill-color: aqua
+  }
