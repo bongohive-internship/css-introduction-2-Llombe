@@ -62,7 +62,7 @@ body {
     margin: 10;
     padding: 10;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(0, 71, 71);
   }
   
   li {
@@ -78,4 +78,4 @@ body {
   }
   
   li a:hover {
-    background-color: #111;
+    background-image: url(../images/beautiful-blur-bright-326055.jpg);
